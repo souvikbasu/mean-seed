@@ -15,4 +15,4 @@ A minimalistic MEAN app skeleton
 `npm start & gulp --prod`
 
 
-Use `--prod` argument minimizes and concatenates js and css files. Use onlu for production deployment
+Use `--prod` argument minimizes and concatenates js and css files. Use only for production deployment
